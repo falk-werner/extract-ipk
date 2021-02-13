@@ -14,7 +14,7 @@ The IPK contains all files related to the package as well as all necessary pre- 
 
 ## Background
 
-Lately, I notices that OPKG preserves all files and information to extract an IPK file from an already installed package.
+Lately, I noticed that OPKG preserves all files and information to extract an IPK file from an already installed package.
 I was't sure whether this will work, so I played around a bit. The result works very well for the  packages I tried.
 
 ## Caveats
